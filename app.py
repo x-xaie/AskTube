@@ -1,4 +1,4 @@
-#pip install youtube-transcript-api,chromadb,langchain,streamlit
+pip install youtube-transcript-api,chromadb,langchain,streamlit
 from langchain.document_loaders import YoutubeLoader
 from langchain import OpenAI
 from langchain.text_splitter import CharacterTextSplitter
