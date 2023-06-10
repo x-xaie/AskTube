@@ -1,4 +1,4 @@
-pip install pip-upgrader
+pip install --upgrade pip
 pip install youtube-transcript-api
 pip install openai
 pip install chromadb
