@@ -26,7 +26,7 @@ In addition to the impressive capabilities of OpenAI's GPT, AskTube incorporates
 ## Usage
 * Navigate to the project directory in your terminal or command prompt.
 * Run the following command to start the application:
-*  *streamlit run app.py
+* _streamlit run app.py_
 * Access the application in your web browser
 * Enter the URL of the YouTube video you want to query and press Enter.
 * Ask your question or query in the provided input field
