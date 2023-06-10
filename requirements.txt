@@ -1,3 +1,5 @@
+-m pip install --upgrade pip
+pip install youtube-transcript-api
 pip install openai
 pip install chromadb
 pip install langchain
